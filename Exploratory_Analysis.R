@@ -1,7 +1,5 @@
-# Exploratory analysis for 2nd version of paper
-# Date - 17/12/20
-# Filename - Exploratory_Analysis.R
-# Author - CA/MB
+# Exploratory analysis for stats anxiety paper
+
 
 # libraries
 library(tidyverse)
