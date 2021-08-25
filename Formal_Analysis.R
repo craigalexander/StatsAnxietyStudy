@@ -1,7 +1,4 @@
-# Formal analyis for study
-# Filename - Formal_Analysis.R
-# Date - 01/02/21
-# Author - CA/MB
+# Formal analyis for stats anxiety survey
 
 # libraries
 library(tidyverse)
